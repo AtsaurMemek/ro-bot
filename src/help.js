@@ -149,7 +149,7 @@ const help = (prefix) => {
 *+ ${prefix}listvid*
 *+ ${prefix}listvn*
 
-───「 *_SOFYAN-SELF_* 」───
+───「 *_ATSAIR BOT_* 」───
 `
 
 
